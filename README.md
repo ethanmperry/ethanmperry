@@ -19,10 +19,7 @@ Here are some of my interests:
 # **Featured Projects**
 
 ### Proxmox Home Lab
-Virtualized cybersecurity environment using Proxmox with Kali Linux, Pi-hole, NAS services, and vulnerability testing.
-
-### AI Agent Security Research
-Research project analyzing the security risks and attack surfaces of modern AI agents.
+Virtualized cybersecurity environment using Proxmox with Kali Linux, ParrotOS, Pi-hole, and Network Attached Storage.
 
 ### Nessus Vulnerability Assessment Lab
 Home network vulnerability scans and remediation practice using Tenable Nessus.
