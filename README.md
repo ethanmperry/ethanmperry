@@ -16,3 +16,16 @@ Here are some of my interests:
 - Google Cybersecurity Certificate (Dec 2025)
 
 
+# **Featured Projects**
+
+### Proxmox Home Lab
+Virtualized cybersecurity environment using Proxmox with Kali Linux, Pi-hole, NAS services, and vulnerability testing.
+
+### AI Agent Security Research
+Research project analyzing the security risks and attack surfaces of modern AI agents.
+
+### Nessus Vulnerability Assessment Lab
+Home network vulnerability scans and remediation practice using Tenable Nessus.
+
+### CTF Writeups
+Writeups and notes from NCL and other cybersecurity challenges.
