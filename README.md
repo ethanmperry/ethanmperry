@@ -12,7 +12,7 @@ Some of my interests are:
 
 ## Experience & Certifications:
 - [_NSU Cybersecurity Internship Clinic_](https://academics.nsuok.edu/continuingeducation/cybr_intrn_clnc.aspx)
-- [_NCL Spring 2026 Team Game_](cyberskyline.com/verify/VYV7M1UH1RQG) (finished top 9%)
+- [_NCL Spring 2026 Team Game_](https://cyberskyline.com/verify/VYV7M1UH1RQG) (finished top 9%)
 - [_Google Cybersecurity Certificate_](https://www.coursera.org/account/accomplishments/badge/TLKmLXdtR4-ypi13beePIg) (Dec 2025)
 
 
