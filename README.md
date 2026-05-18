@@ -18,8 +18,9 @@ Some of my interests are:
 
 # **Featured Projects**
 
-### My Home Lab:
+### [My Home Lab](https://github.com/ethanmperry/home-lab/):
 - _Created a virtualized cybersecurity testing environment using Proxmox, hosting Kali Linux, ParrotOS, Pi-hole, Network Attached Storage, and other applications._
+- _Scanned my home network for vulnerabilities. [See here](https://github.com/ethanmperry/home-lab/blob/main/Vulnerability-Scanning.md)_
 
 ### CTF Writeups:
 - _Writeups/videos from completed cybersecurity challenges._
